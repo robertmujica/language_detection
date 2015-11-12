@@ -1,0 +1,26 @@
+{
+    "store": {
+        "categories": [
+            {
+                "category": "reference",
+                "text": "Sword of Honour",
+                "categories" : {
+                    "category": "reference",
+                    "text": "Sub-category one",
+                    "categories" : {
+                        "category": "reference",
+                        "text": "Sub-category two"
+                    }
+                }
+            },
+            {
+                "category": "fiction",
+                "text": "Evelyn Waugh"
+            }
+        ],
+        "bicycle": {
+            "color": "red",
+            "price": 19.95
+        }
+    }
+}

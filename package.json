@@ -1,0 +1,11 @@
+{
+  "name": "language-detection",
+  "version": "1.0.0",
+  "dependencies": {
+    "JSONPath": "^0.10.0",
+    "request": "^2.65.0",
+    "uri-js": "^2.1.1",
+    "fs": "0.0.2",
+    "util": "^0.10.3"
+  }
+}
