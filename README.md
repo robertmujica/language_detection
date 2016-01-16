@@ -1,6 +1,6 @@
 # Summary
 
-Prove of concept to show the usage of Node.js modules to detect language correcness on JSON file / String.
+Prove of concept to show the usage of Node.js modules to detect language correctness on JSON file / String.
 
 # Practical Scenarios
 
